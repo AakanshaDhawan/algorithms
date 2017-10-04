@@ -1,4 +1,4 @@
-// Big Int class to add 2 numbers of upto 4000 digits.
+// Big Int class to add 2 numbers of upto 4000 digits....
 #include <iostream>
 #include <cstring>
 using namespace std;
